@@ -1,0 +1,10 @@
+*
+!*/
+
+!*.py
+!README.md
+!.gitignore
+
+!AutoTradeMachine_Delta/data/m_MAIN/initializationSettings.txt
+!AutoTradeMachine_Delta/data/m_GUI/*.bin
+!AutoTradeMachine_Delta/data/m_GUI/imgs/**
