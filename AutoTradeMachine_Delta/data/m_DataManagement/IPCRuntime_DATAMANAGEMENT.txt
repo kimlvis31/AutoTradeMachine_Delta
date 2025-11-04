@@ -1,0 +1,79 @@
+### [PRD_OUT] ### 
+    <N/A>
+
+### [PRD_IN] ### 
+[PRD_IN[0]] 
+   SYS_TIME_PP : [np.float64(14366455.0), np.float64(6893906.0), 100]
+   SYS_TIME_P0 : [15361499, 6099714, 100]
+   SYS_TIME_P1 : [15203786, 5980650, 100]
+   SYS_TIME_P2 : [14583355, 5370624, 100]
+   SYS_TIME_P3 : [14686567, 5271589, 100]
+   SYS_TIME_P4 : [14428250, 5269264, 100]
+   SYS_TIME_P5 : [15207752, 5296840, 100]
+   SYS_TIME_P6 : [14273243, 5190253, 100]
+
+[PRD_IN[1]] 
+    <N/A>
+
+[PRD_IN[2]] 
+    <N/A>
+
+[PRD_IN[3]] 
+   ONLINESTATUS : [False]
+   LASTCONNECTIONCHECKTIME : ['Mon Nov  3 07:56:23 2025']
+
+[PRD_IN[4]] 
+    <N/A>
+
+[PRD_IN[5]] 
+    <N/A>
+
+[PRD_IN[6]] 
+    <N/A>
+
+
+### [FAR_OUT] ### 
+[FAR_OUT[0]] 
+    <N/A>
+
+[FAR_OUT[1]] 
+    <N/A>
+
+[FAR_OUT[2]] 
+    <N/A>
+
+[FAR_OUT[3]] 
+    <N/A>
+
+[FAR_OUT[4]] 
+    <N/A>
+
+[FAR_OUT[5]] 
+    <N/A>
+
+[FAR_OUT[6]] 
+    <N/A>
+
+
+### [FAR_IN] ### 
+[FAR_IN[0]] 
+    <N/A>
+
+[FAR_IN[1]] 
+    <N/A>
+
+[FAR_IN[2]] 
+    <N/A>
+
+[FAR_IN[3]] 
+    <N/A>
+
+[FAR_IN[4]] 
+    <N/A>
+
+[FAR_IN[5]] 
+    <N/A>
+
+[FAR_IN[6]] 
+    <N/A>
+

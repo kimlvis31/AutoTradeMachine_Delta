@@ -1,0 +1,275 @@
+[651.103 ms] SYSTEM MAIN: PROGRAM STARTED [Mon Nov  3 07:56:23 2025]
+[651.103 ms] SYSTEM MAIN: INITIALIZATION SETTINGS FILE FOUND, FILE DEFINED SETTINGS WILL BE USED
+[655.109 ms] SYSTEM MAIN: INITIALIZATION SETTINGS IMPORT COMPLETED!!
+[655.109 ms] SYSTEM MAIN: System Message Record File Created: 'systemMessages.txt'
+[655.109 ms] SYSTEM MAIN: Processes Timer Record File Created: 'processesTimerRecord.txt'
+[655.109 ms] SYSTEM MAIN: PROCESS_P DLT SET TO 10
+[655.109 ms] SYSTEM MAIN: PROCESS_0 DLT SET TO 10
+[655.109 ms] SYSTEM MAIN: PROCESS_1 DLT SET TO 10
+[655.109 ms] SYSTEM MAIN: PROCESS_2 DLT SET TO 10
+[655.109 ms] SYSTEM MAIN: PROCESS_3 DLT SET TO 10
+[655.109 ms] SYSTEM MAIN: PROCESS_4 DLT SET TO 10
+[655.109 ms] SYSTEM MAIN: PROCESS_5 DLT SET TO 10
+[655.109 ms] SYSTEM MAIN: PROCESS_6 DLT SET TO 10
+[655.109 ms] SYSTEM MAIN: PROCESS_P TRNS SET TO 100
+[655.109 ms] SYSTEM MAIN: PROCESS_0 TRNS SET TO 100
+[655.109 ms] SYSTEM MAIN: PROCESS_1 TRNS SET TO 100
+[655.109 ms] SYSTEM MAIN: PROCESS_2 TRNS SET TO 100
+[655.109 ms] SYSTEM MAIN: PROCESS_3 TRNS SET TO 100
+[655.109 ms] SYSTEM MAIN: PROCESS_4 TRNS SET TO 100
+[655.109 ms] SYSTEM MAIN: PROCESS_5 TRNS SET TO 100
+[655.109 ms] SYSTEM MAIN: PROCESS_6 TRNS SET TO 100
+[1.438 s] MANAGER [AUXILLARY]: PROCESS INITIALIZATION COMPLETE!
+[1.438 s] MANAGER [DATA MANAGEMENT]: PROCESS INITIALIZATION COMPLETE!
+[1.444 s] MANAGER [AUTO TRADER]: PROCESS INITIALIZATION COMPLETE!
+[1.450 s] MANAGER [BINANCE API]: PROCESS INITIALIZATION COMPLETE!
+[1.444 s] MANAGER [DATA ANALYSIS]: PROCESS INITIALIZATION COMPLETE!
+[1.444 s] MANAGER [SECURITY CONTROL]: PROCESS INITIALIZATION COMPLETE!
+[1.444 s] MANAGER [AUTO TRADER]: Initializing AUTOTRADER Manager...
+[1.444 s] MANAGER [AUTO TRADER]:   Inter-Processes Communicator Initialized!
+[1.444 s] MANAGER [AUTO TRADER]:   Inter-Processes Communication Log File Created!: 'IPCLog_AUTOTRADER.txt'
+[1.444 s] MANAGER [AUTO TRADER]:   Inter-Processes Communication Run Time Data File Created!: 'IPCRuntime_AUTOTRADER.txt'
+[1.444 s] MANAGER [AUTO TRADER]: AUTOTRADER Manager Initialization Complete!
+[1.438 s] MANAGER [AUXILLARY]: Initializing AUXILLARY Manager...
+[1.438 s] MANAGER [AUXILLARY]:   Inter-Processes Communicator Initialized!
+[1.438 s] MANAGER [AUXILLARY]:   Inter-Processes Communication Log File Created!: 'IPCLog_AUXILLARY.txt'
+[1.438 s] MANAGER [AUXILLARY]:   Inter-Processes Communication Run Time Data File Created!: 'IPCRuntime_AUXILLARY.txt'
+[1.444 s] MANAGER [DATA ANALYSIS]: Initializing DATA ANALYSIS Manager...
+[1.444 s] MANAGER [DATA ANALYSIS]:   Inter-Processes Communicator Initialized!
+[1.444 s] MANAGER [DATA ANALYSIS]:   Inter-Processes Communication Log File Created!: 'IPCLog_DATAANALYSIS.txt'
+[1.444 s] MANAGER [DATA ANALYSIS]:   Inter-Processes Communication Run Time Data File Created!: 'IPCRuntime_DATAANALYSIS.txt'
+[1.444 s] MANAGER [DATA ANALYSIS]: DATA ANALYSIS Manager Initialization Complete!
+[1.438 s] MANAGER [DATA MANAGEMENT]: Initializing DATA MANAGEMENT Manager...
+[1.438 s] MANAGER [DATA MANAGEMENT]:   Inter-Processes Communicator Initialized!
+[1.438 s] MANAGER [DATA MANAGEMENT]:   Inter-Processes Communication Log File Created!: 'IPCLog_DATAMANAGEMENT.txt'
+[1.438 s] MANAGER [DATA MANAGEMENT]:   Inter-Processes Communication Run Time Data File Created!: 'IPCRuntime_DATAMANAGEMENT.txt'
+[1.438 s] MANAGER [DATA MANAGEMENT]: DATA MANAGEMENT Manager Initialization Complete!
+[1.444 s] MANAGER [SECURITY CONTROL]: Initializing SECURITY CONTROL Manager...
+[1.444 s] MANAGER [SECURITY CONTROL]:   Inter-Processes Communicator Initialized!
+[1.444 s] MANAGER [SECURITY CONTROL]:   Inter-Processes Communication Log File Created!: 'IPCLog_SECURITYCONTROL.txt'
+[1.444 s] MANAGER [SECURITY CONTROL]:   Inter-Processes Communication Run Time Data File Created!: 'IPCRuntime_SECURITYCONTROL.txt'
+[1.444 s] MANAGER [SECURITY CONTROL]: SECURITY CONTROL Manager Initialization Complete!
+[1.438 s] MANAGER [BINANCE API]: Initializing BINANCE API Manager...
+[1.438 s] MANAGER [BINANCE API]:   Inter-Processes Communicator Initialized!
+[1.438 s] MANAGER [BINANCE API]:   Inter-Processes Communication Log File Created!: 'IPCLog_BINANCEAPI.txt'
+[1.438 s] MANAGER [BINANCE API]:   Inter-Processes Communication Run Time Data File Created!: 'IPCRuntime_BINANCEAPI.txt'
+[1.450 s] MANAGER [BINANCE API]: BINANCE API Manager Initialization Complete!
+[11.750 s] MANAGER [GUI]: PROCESS INITIALIZATION COMPLETE!
+[1.444 s] MANAGER [GUI]: Initializing GRAPHICAL USER INTERFACE Manager...
+[1.444 s] MANAGER [GUI]:   Inter-Processes Communicator Initialized!
+[1.444 s] MANAGER [GUI]:   Inter-Processes Communication Log File Created!: 'IPCLog_GUI.txt'
+[1.444 s] MANAGER [GUI]:   Inter-Processes Communication Run Time Data File Created!: 'IPCRuntime_GUI.txt'
+[1.748 s] MANAGER [GUI]:   Key Binding Complete!
+[1.748 s] MANAGER [GUI]:   Reading CTGO File
+[1.748 s] MANAGER [GUI]:   CTGO File Read Complete!
+[1.749 s] MANAGER [GUI]:   GUIO File Found: 'GUIOList_ANALYSIS.bin'
+[1.749 s] MANAGER [GUI]:   GUIO File Found: 'GUIOList_BINANCEAPI.bin'
+[1.749 s] MANAGER [GUI]:   GUIO File Found: 'GUIOList_DASHBOARD.bin'
+[1.749 s] MANAGER [GUI]:   GUIO File Found: 'GUIOList_EXPERIMENT.bin'
+[1.749 s] MANAGER [GUI]:   GUIO File Found: 'GUIOList_MANAGEDATA.bin'
+[1.749 s] MANAGER [GUI]:   GUIO File Found: 'GUIOList_PROGRAM.bin'
+[1.749 s] MANAGER [GUI]:   GUIO File Found: 'GUIOList_SETTINGS.bin'
+[1.749 s] MANAGER [GUI]:   Reading GUIO File Contents: GUIOList_ANALYSIS.bin
+[1.806 s] MANAGER [GUI]:     Object Content 1 Initializated: 'PASSIVEGRAPHICS_TYPE_A'
+[2.396 s] MANAGER [GUI]:     Object Content 2 Initializated: 'PASSIVEGRAPHICS_TYPE_A'
+[2.396 s] MANAGER [GUI]:     Object Content 3 Initializated: 'BUTTON_TYPE_A'
+[2.404 s] MANAGER [GUI]:     Object Content 4 Initializated: 'BUTTON_TYPE_A'
+[2.410 s] MANAGER [GUI]:     Object Content 5 Initializated: 'BUTTON_TYPE_A'
+[2.417 s] MANAGER [GUI]:     Object Content 6 Initializated: 'BUTTON_TYPE_A'
+[2.424 s] MANAGER [GUI]:     Object Content 7 Initializated: 'BUTTON_TYPE_A'
+[2.431 s] MANAGER [GUI]:     Object Content 8 Initializated: 'BUTTON_TYPE_A'
+[2.444 s] MANAGER [GUI]:     Object Content 9 Initializated: 'BUTTON_TYPE_A'
+[2.446 s] MANAGER [GUI]:     Object Content 10 Initializated: 'BUTTON_TYPE_A'
+[2.456 s] MANAGER [GUI]:     Object Content 11 Initializated: 'BUTTON_TYPE_A'
+[2.458 s] MANAGER [GUI]:     Object Content 12 Initializated: 'BUTTON_TYPE_A'
+[2.466 s] MANAGER [GUI]:     Object Content 13 Initializated: 'BUTTON_TYPE_A'
+[2.472 s] MANAGER [GUI]:     Object Content 14 Initializated: 'BUTTON_TYPE_A'
+[2.473 s] MANAGER [GUI]:     Object Content 15 Initializated: 'BUTTON_TYPE_A'
+[2.473 s] MANAGER [GUI]:   GUIO File Read Complete!: GUIOList_ANALYSIS.bin
+[2.473 s] MANAGER [GUI]:   Reading GUIO File Contents: GUIOList_BINANCEAPI.bin
+[2.505 s] MANAGER [GUI]:     Object Content 1 Initializated: 'PASSIVEGRAPHICS_TYPE_A'
+[3.118 s] MANAGER [GUI]:     Object Content 2 Initializated: 'PASSIVEGRAPHICS_TYPE_A'
+[3.118 s] MANAGER [GUI]:     Object Content 3 Initializated: 'BUTTON_TYPE_A'
+[3.133 s] MANAGER [GUI]:     Object Content 4 Initializated: 'BUTTON_TYPE_A'
+[3.133 s] MANAGER [GUI]:     Object Content 5 Initializated: 'BUTTON_TYPE_A'
+[3.149 s] MANAGER [GUI]:     Object Content 6 Initializated: 'BUTTON_TYPE_A'
+[3.153 s] MANAGER [GUI]:     Object Content 7 Initializated: 'BUTTON_TYPE_A'
+[3.159 s] MANAGER [GUI]:     Object Content 8 Initializated: 'BUTTON_TYPE_A'
+[3.165 s] MANAGER [GUI]:     Object Content 9 Initializated: 'BUTTON_TYPE_A'
+[3.165 s] MANAGER [GUI]:     Object Content 10 Initializated: 'BUTTON_TYPE_A'
+[3.181 s] MANAGER [GUI]:     Object Content 11 Initializated: 'BUTTON_TYPE_A'
+[3.181 s] MANAGER [GUI]:     Object Content 12 Initializated: 'BUTTON_TYPE_A'
+[3.181 s] MANAGER [GUI]:     Object Content 13 Initializated: 'BUTTON_TYPE_A'
+[3.197 s] MANAGER [GUI]:     Object Content 14 Initializated: 'BUTTON_TYPE_A'
+[3.197 s] MANAGER [GUI]:     Object Content 15 Initializated: 'BUTTON_TYPE_A'
+[3.245 s] MANAGER [GUI]:     Object Content 16 Initializated: 'BINARYINDICATOR_TYPE_A'
+[3.245 s] MANAGER [GUI]:     Object Content 17 Initializated: 'TEXTBOX_TYPE_A'
+[3.245 s] MANAGER [GUI]:     Object Content 18 Initializated: 'PASSIVEGRAPHICS_TYPE_A'
+[3.326 s] MANAGER [GUI]:     Object Content 19 Initializated: 'TEXTINPUTBOX_TYPE_A'
+[3.326 s] MANAGER [GUI]:     Object Content 20 Initializated: 'PASSIVEGRAPHICS_TYPE_A'
+[3.405 s] MANAGER [GUI]:     Object Content 21 Initializated: 'TEXTINPUTBOX_TYPE_A'
+[3.424 s] MANAGER [GUI]:     Object Content 22 Initializated: 'BUTTON_TYPE_A'
+[7.903 s] MANAGER [GUI]:     Object Content 23 Initializated: 'LISTBOX_TYPE_A'
+[7.903 s] MANAGER [GUI]:   GUIO File Read Complete!: GUIOList_BINANCEAPI.bin
+[7.903 s] MANAGER [GUI]:   Reading GUIO File Contents: GUIOList_DASHBOARD.bin
+[7.943 s] MANAGER [GUI]:     Object Content 1 Initializated: 'PASSIVEGRAPHICS_TYPE_A'
+[8.576 s] MANAGER [GUI]:     Object Content 2 Initializated: 'PASSIVEGRAPHICS_TYPE_A'
+[8.582 s] MANAGER [GUI]:     Object Content 3 Initializated: 'BUTTON_TYPE_A'
+[8.583 s] MANAGER [GUI]:     Object Content 4 Initializated: 'BUTTON_TYPE_A'
+[8.593 s] MANAGER [GUI]:     Object Content 5 Initializated: 'BUTTON_TYPE_A'
+[8.599 s] MANAGER [GUI]:     Object Content 6 Initializated: 'BUTTON_TYPE_A'
+[8.605 s] MANAGER [GUI]:     Object Content 7 Initializated: 'BUTTON_TYPE_A'
+[8.611 s] MANAGER [GUI]:     Object Content 8 Initializated: 'BUTTON_TYPE_A'
+[8.623 s] MANAGER [GUI]:     Object Content 9 Initializated: 'BUTTON_TYPE_A'
+[8.630 s] MANAGER [GUI]:     Object Content 10 Initializated: 'BUTTON_TYPE_A'
+[8.636 s] MANAGER [GUI]:     Object Content 11 Initializated: 'BUTTON_TYPE_A'
+[8.639 s] MANAGER [GUI]:     Object Content 12 Initializated: 'BUTTON_TYPE_A'
+[8.648 s] MANAGER [GUI]:     Object Content 13 Initializated: 'BUTTON_TYPE_A'
+[8.653 s] MANAGER [GUI]:     Object Content 14 Initializated: 'BUTTON_TYPE_A'
+[8.659 s] MANAGER [GUI]:     Object Content 15 Initializated: 'BUTTON_TYPE_A'
+[8.659 s] MANAGER [GUI]:   GUIO File Read Complete!: GUIOList_DASHBOARD.bin
+[8.659 s] MANAGER [GUI]:   Reading GUIO File Contents: GUIOList_EXPERIMENT.bin
+[8.692 s] MANAGER [GUI]:     Object Content 1 Initializated: 'PASSIVEGRAPHICS_TYPE_A'
+[9.305 s] MANAGER [GUI]:     Object Content 2 Initializated: 'PASSIVEGRAPHICS_TYPE_A'
+[9.312 s] MANAGER [GUI]:     Object Content 3 Initializated: 'BUTTON_TYPE_A'
+[9.319 s] MANAGER [GUI]:     Object Content 4 Initializated: 'BUTTON_TYPE_A'
+[9.326 s] MANAGER [GUI]:     Object Content 5 Initializated: 'BUTTON_TYPE_A'
+[9.333 s] MANAGER [GUI]:     Object Content 6 Initializated: 'BUTTON_TYPE_A'
+[9.340 s] MANAGER [GUI]:     Object Content 7 Initializated: 'BUTTON_TYPE_A'
+[9.345 s] MANAGER [GUI]:     Object Content 8 Initializated: 'BUTTON_TYPE_A'
+[9.355 s] MANAGER [GUI]:     Object Content 9 Initializated: 'BUTTON_TYPE_A'
+[9.361 s] MANAGER [GUI]:     Object Content 10 Initializated: 'BUTTON_TYPE_A'
+[9.368 s] MANAGER [GUI]:     Object Content 11 Initializated: 'BUTTON_TYPE_A'
+[9.375 s] MANAGER [GUI]:     Object Content 12 Initializated: 'BUTTON_TYPE_A'
+[9.382 s] MANAGER [GUI]:     Object Content 13 Initializated: 'BUTTON_TYPE_A'
+[9.389 s] MANAGER [GUI]:     Object Content 14 Initializated: 'BUTTON_TYPE_A'
+[9.393 s] MANAGER [GUI]:     Object Content 15 Initializated: 'BUTTON_TYPE_A'
+[9.396 s] MANAGER [GUI]:     Object Content 16 Initializated: 'TEXTBOX_TYPE_A'
+[9.403 s] MANAGER [GUI]:     Object Content 17 Initializated: 'TEXTBOX_TYPE_A'
+[9.403 s] MANAGER [GUI]:     Object Content 18 Initializated: 'SLIDER_TYPE_A'
+[9.410 s] MANAGER [GUI]:     Object Content 19 Initializated: 'SLIDER_TYPE_A'
+[9.416 s] MANAGER [GUI]:     Object Content 20 Initializated: 'TEXTINPUTBOX_TYPE_A'
+[9.427 s] MANAGER [GUI]:     Object Content 21 Initializated: 'BUTTON_TYPE_A'
+[9.427 s] MANAGER [GUI]:   GUIO File Read Complete!: GUIOList_EXPERIMENT.bin
+[9.427 s] MANAGER [GUI]:   Reading GUIO File Contents: GUIOList_MANAGEDATA.bin
+[9.463 s] MANAGER [GUI]:     Object Content 1 Initializated: 'PASSIVEGRAPHICS_TYPE_A'
+[10.111 s] MANAGER [GUI]:     Object Content 2 Initializated: 'PASSIVEGRAPHICS_TYPE_A'
+[10.119 s] MANAGER [GUI]:     Object Content 3 Initializated: 'BUTTON_TYPE_A'
+[10.125 s] MANAGER [GUI]:     Object Content 4 Initializated: 'BUTTON_TYPE_A'
+[10.129 s] MANAGER [GUI]:     Object Content 5 Initializated: 'BUTTON_TYPE_A'
+[10.136 s] MANAGER [GUI]:     Object Content 6 Initializated: 'BUTTON_TYPE_A'
+[10.141 s] MANAGER [GUI]:     Object Content 7 Initializated: 'BUTTON_TYPE_A'
+[10.147 s] MANAGER [GUI]:     Object Content 8 Initializated: 'BUTTON_TYPE_A'
+[10.161 s] MANAGER [GUI]:     Object Content 9 Initializated: 'BUTTON_TYPE_A'
+[10.166 s] MANAGER [GUI]:     Object Content 10 Initializated: 'BUTTON_TYPE_A'
+[10.173 s] MANAGER [GUI]:     Object Content 11 Initializated: 'BUTTON_TYPE_A'
+[10.173 s] MANAGER [GUI]:     Object Content 12 Initializated: 'BUTTON_TYPE_A'
+[10.180 s] MANAGER [GUI]:     Object Content 13 Initializated: 'BUTTON_TYPE_A'
+[10.187 s] MANAGER [GUI]:     Object Content 14 Initializated: 'BUTTON_TYPE_A'
+[10.194 s] MANAGER [GUI]:     Object Content 15 Initializated: 'BUTTON_TYPE_A'
+[10.194 s] MANAGER [GUI]:   GUIO File Read Complete!: GUIOList_MANAGEDATA.bin
+[10.194 s] MANAGER [GUI]:   Reading GUIO File Contents: GUIOList_PROGRAM.bin
+[10.238 s] MANAGER [GUI]:     Object Content 1 Initializated: 'PASSIVEGRAPHICS_TYPE_A'
+[10.845 s] MANAGER [GUI]:     Object Content 2 Initializated: 'PASSIVEGRAPHICS_TYPE_A'
+[10.851 s] MANAGER [GUI]:     Object Content 3 Initializated: 'BUTTON_TYPE_A'
+[10.857 s] MANAGER [GUI]:     Object Content 4 Initializated: 'BUTTON_TYPE_A'
+[10.862 s] MANAGER [GUI]:     Object Content 5 Initializated: 'BUTTON_TYPE_A'
+[10.867 s] MANAGER [GUI]:     Object Content 6 Initializated: 'BUTTON_TYPE_A'
+[10.873 s] MANAGER [GUI]:     Object Content 7 Initializated: 'BUTTON_TYPE_A'
+[10.879 s] MANAGER [GUI]:     Object Content 8 Initializated: 'BUTTON_TYPE_A'
+[10.892 s] MANAGER [GUI]:     Object Content 9 Initializated: 'BUTTON_TYPE_A'
+[10.898 s] MANAGER [GUI]:     Object Content 10 Initializated: 'BUTTON_TYPE_A'
+[10.904 s] MANAGER [GUI]:     Object Content 11 Initializated: 'BUTTON_TYPE_A'
+[10.909 s] MANAGER [GUI]:     Object Content 12 Initializated: 'BUTTON_TYPE_A'
+[10.914 s] MANAGER [GUI]:     Object Content 13 Initializated: 'BUTTON_TYPE_A'
+[10.920 s] MANAGER [GUI]:     Object Content 14 Initializated: 'BUTTON_TYPE_A'
+[10.925 s] MANAGER [GUI]:     Object Content 15 Initializated: 'BUTTON_TYPE_A'
+[10.927 s] MANAGER [GUI]:     Object Content 16 Initializated: 'PASSIVEGRAPHICS_TYPE_A'
+[10.928 s] MANAGER [GUI]:     Object Content 17 Initializated: 'PASSIVEGRAPHICS_TYPE_A'
+[10.930 s] MANAGER [GUI]:     Object Content 18 Initializated: 'PASSIVEGRAPHICS_TYPE_A'
+[10.932 s] MANAGER [GUI]:     Object Content 19 Initializated: 'PASSIVEGRAPHICS_TYPE_A'
+[10.934 s] MANAGER [GUI]:     Object Content 20 Initializated: 'PASSIVEGRAPHICS_TYPE_A'
+[10.935 s] MANAGER [GUI]:     Object Content 21 Initializated: 'PASSIVEGRAPHICS_TYPE_A'
+[10.938 s] MANAGER [GUI]:     Object Content 22 Initializated: 'PASSIVEGRAPHICS_TYPE_A'
+[10.939 s] MANAGER [GUI]:     Object Content 23 Initializated: 'PASSIVEGRAPHICS_TYPE_A'
+[10.940 s] MANAGER [GUI]:     Object Content 24 Initializated: 'PASSIVEGRAPHICS_TYPE_A'
+[10.941 s] MANAGER [GUI]:     Object Content 25 Initializated: 'TEXTBOX_TYPE_A'
+[10.942 s] MANAGER [GUI]:     Object Content 26 Initializated: 'PASSIVEGRAPHICS_TYPE_A'
+[10.943 s] MANAGER [GUI]:     Object Content 27 Initializated: 'TEXTBOX_TYPE_A'
+[10.944 s] MANAGER [GUI]:     Object Content 28 Initializated: 'PASSIVEGRAPHICS_TYPE_A'
+[10.945 s] MANAGER [GUI]:     Object Content 29 Initializated: 'TEXTBOX_TYPE_A'
+[10.946 s] MANAGER [GUI]:     Object Content 30 Initializated: 'PASSIVEGRAPHICS_TYPE_A'
+[10.947 s] MANAGER [GUI]:     Object Content 31 Initializated: 'TEXTBOX_TYPE_A'
+[10.948 s] MANAGER [GUI]:     Object Content 32 Initializated: 'PASSIVEGRAPHICS_TYPE_A'
+[10.949 s] MANAGER [GUI]:     Object Content 33 Initializated: 'TEXTBOX_TYPE_A'
+[10.949 s] MANAGER [GUI]:     Object Content 34 Initializated: 'PASSIVEGRAPHICS_TYPE_A'
+[10.949 s] MANAGER [GUI]:     Object Content 35 Initializated: 'TEXTBOX_TYPE_A'
+[10.949 s] MANAGER [GUI]:     Object Content 36 Initializated: 'PASSIVEGRAPHICS_TYPE_A'
+[10.949 s] MANAGER [GUI]:     Object Content 37 Initializated: 'TEXTBOX_TYPE_A'
+[10.949 s] MANAGER [GUI]:     Object Content 38 Initializated: 'PASSIVEGRAPHICS_TYPE_A'
+[10.949 s] MANAGER [GUI]:     Object Content 39 Initializated: 'TEXTBOX_TYPE_A'
+[10.949 s] MANAGER [GUI]:     Object Content 40 Initializated: 'PASSIVEGRAPHICS_TYPE_A'
+[10.949 s] MANAGER [GUI]:     Object Content 41 Initializated: 'TEXTBOX_TYPE_A'
+[10.949 s] MANAGER [GUI]:     Object Content 42 Initializated: 'PASSIVEGRAPHICS_TYPE_A'
+[10.949 s] MANAGER [GUI]:     Object Content 43 Initializated: 'TEXTBOX_TYPE_A'
+[10.949 s] MANAGER [GUI]:     Object Content 44 Initializated: 'PASSIVEGRAPHICS_TYPE_A'
+[10.949 s] MANAGER [GUI]:     Object Content 45 Initializated: 'TEXTBOX_TYPE_A'
+[10.949 s] MANAGER [GUI]:     Object Content 46 Initializated: 'PASSIVEGRAPHICS_TYPE_A'
+[10.949 s] MANAGER [GUI]:     Object Content 47 Initializated: 'TEXTBOX_TYPE_A'
+[10.949 s] MANAGER [GUI]:     Object Content 48 Initializated: 'PASSIVEGRAPHICS_TYPE_A'
+[10.964 s] MANAGER [GUI]:     Object Content 49 Initializated: 'TEXTBOX_TYPE_A'
+[10.965 s] MANAGER [GUI]:     Object Content 50 Initializated: 'PASSIVEGRAPHICS_TYPE_A'
+[10.966 s] MANAGER [GUI]:     Object Content 51 Initializated: 'TEXTBOX_TYPE_A'
+[10.967 s] MANAGER [GUI]:     Object Content 52 Initializated: 'PASSIVEGRAPHICS_TYPE_A'
+[10.967 s] MANAGER [GUI]:     Object Content 53 Initializated: 'TEXTBOX_TYPE_A'
+[10.969 s] MANAGER [GUI]:     Object Content 54 Initializated: 'PASSIVEGRAPHICS_TYPE_A'
+[10.969 s] MANAGER [GUI]:     Object Content 55 Initializated: 'TEXTBOX_TYPE_A'
+[10.970 s] MANAGER [GUI]:     Object Content 56 Initializated: 'PASSIVEGRAPHICS_TYPE_A'
+[10.971 s] MANAGER [GUI]:     Object Content 57 Initializated: 'TEXTBOX_TYPE_A'
+[10.972 s] MANAGER [GUI]:     Object Content 58 Initializated: 'PASSIVEGRAPHICS_TYPE_A'
+[10.972 s] MANAGER [GUI]:     Object Content 59 Initializated: 'TEXTBOX_TYPE_A'
+[10.972 s] MANAGER [GUI]:     Object Content 60 Initializated: 'PASSIVEGRAPHICS_TYPE_A'
+[10.972 s] MANAGER [GUI]:     Object Content 61 Initializated: 'TEXTBOX_TYPE_A'
+[10.972 s] MANAGER [GUI]:     Object Content 62 Initializated: 'PASSIVEGRAPHICS_TYPE_A'
+[10.972 s] MANAGER [GUI]:     Object Content 63 Initializated: 'TEXTBOX_TYPE_A'
+[10.972 s] MANAGER [GUI]:     Object Content 64 Initializated: 'PASSIVEGRAPHICS_TYPE_A'
+[10.972 s] MANAGER [GUI]:     Object Content 65 Initializated: 'TEXTBOX_TYPE_A'
+[10.972 s] MANAGER [GUI]:     Object Content 66 Initializated: 'PASSIVEGRAPHICS_TYPE_A'
+[10.972 s] MANAGER [GUI]:     Object Content 67 Initializated: 'TEXTBOX_TYPE_A'
+[10.972 s] MANAGER [GUI]:     Object Content 68 Initializated: 'PASSIVEGRAPHICS_TYPE_A'
+[10.972 s] MANAGER [GUI]:     Object Content 69 Initializated: 'TEXTBOX_TYPE_A'
+[10.972 s] MANAGER [GUI]:     Object Content 70 Initializated: 'PASSIVEGRAPHICS_TYPE_A'
+[10.972 s] MANAGER [GUI]:     Object Content 71 Initializated: 'TEXTBOX_TYPE_A'
+[10.972 s] MANAGER [GUI]:   GUIO File Read Complete!: GUIOList_PROGRAM.bin
+[10.972 s] MANAGER [GUI]:   Reading GUIO File Contents: GUIOList_SETTINGS.bin
+[11.018 s] MANAGER [GUI]:     Object Content 1 Initializated: 'PASSIVEGRAPHICS_TYPE_A'
+[11.609 s] MANAGER [GUI]:     Object Content 2 Initializated: 'PASSIVEGRAPHICS_TYPE_A'
+[11.609 s] MANAGER [GUI]:     Object Content 3 Initializated: 'BUTTON_TYPE_A'
+[11.626 s] MANAGER [GUI]:     Object Content 4 Initializated: 'BUTTON_TYPE_A'
+[11.626 s] MANAGER [GUI]:     Object Content 5 Initializated: 'BUTTON_TYPE_A'
+[11.637 s] MANAGER [GUI]:     Object Content 6 Initializated: 'BUTTON_TYPE_A'
+[11.643 s] MANAGER [GUI]:     Object Content 7 Initializated: 'BUTTON_TYPE_A'
+[11.649 s] MANAGER [GUI]:     Object Content 8 Initializated: 'BUTTON_TYPE_A'
+[11.663 s] MANAGER [GUI]:     Object Content 9 Initializated: 'BUTTON_TYPE_A'
+[11.667 s] MANAGER [GUI]:     Object Content 10 Initializated: 'BUTTON_TYPE_A'
+[11.673 s] MANAGER [GUI]:     Object Content 11 Initializated: 'BUTTON_TYPE_A'
+[11.679 s] MANAGER [GUI]:     Object Content 12 Initializated: 'BUTTON_TYPE_A'
+[11.683 s] MANAGER [GUI]:     Object Content 13 Initializated: 'BUTTON_TYPE_A'
+[11.689 s] MANAGER [GUI]:     Object Content 14 Initializated: 'BUTTON_TYPE_A'
+[11.696 s] MANAGER [GUI]:     Object Content 15 Initializated: 'BUTTON_TYPE_A'
+[11.720 s] MANAGER [GUI]:     Object Content 16 Initializated: 'SWITCH_TYPE_A'
+[11.720 s] MANAGER [GUI]:     Object Content 17 Initializated: 'PASSIVEGRAPHICS_TYPE_A'
+[11.720 s] MANAGER [GUI]:   GUIO File Read Complete!: GUIOList_SETTINGS.bin
+[11.750 s] MANAGER [GUI]:   Loading Page 'DASHBOARD'
+[11.750 s] MANAGER [GUI]:   Page DASHBOARD Loaded! <15 GUI Objects Present>
+[11.750 s] MANAGER [GUI]: GRAPHICAL USER INTERFACE Manager Initialization Complete!
+[35.101 s] MANAGER [GUI]:   Loading Page 'ANALYSIS'
+[35.101 s] MANAGER [GUI]:   Page ANALYSIS Loaded! <15 GUI Objects Present>
+[35.954 s] MANAGER [GUI]:   Loading Page 'BINANCEAPI'
+[35.955 s] MANAGER [GUI]:   Page BINANCEAPI Loaded! <23 GUI Objects Present>
+[114.500 s] MANAGER [GUI]:   Loading Page 'EXPERIMENT'
+[114.501 s] MANAGER [GUI]:   Page EXPERIMENT Loaded! <21 GUI Objects Present>
+[116.362 s] MANAGER [GUI]:   Loading Page 'PROGRAM'
+[116.364 s] MANAGER [GUI]:   Page PROGRAM Loaded! <71 GUI Objects Present>
+[119.718 s] MANAGER [GUI]:   Loading Page 'BINANCEAPI'
+[119.719 s] MANAGER [GUI]:   Page BINANCEAPI Loaded! <23 GUI Objects Present>

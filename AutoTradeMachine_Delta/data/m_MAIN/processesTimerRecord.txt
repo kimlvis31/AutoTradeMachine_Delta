@@ -1,0 +1,8 @@
+PROCESS_P: Average Loop Time [12198.633 us], Average Processing Time [5508.385 us], Number of Samples [100] 
+PROCESS0: Average Loop Time [12626.896 us], Average Processing Time [5313.352 us], Number of Samples [100] 
+PROCESS1: Average Loop Time [12778.652 us], Average Processing Time [5174.871 us], Number of Samples [100] 
+PROCESS2: Average Loop Time [11792.086 us], Average Processing Time [4734.196 us], Number of Samples [100] 
+PROCESS3: Average Loop Time [11892.123 us], Average Processing Time [4557.961 us], Number of Samples [100] 
+PROCESS4: Average Loop Time [11732.414 us], Average Processing Time [4530.986 us], Number of Samples [100] 
+PROCESS5: Average Loop Time [12608.377 us], Average Processing Time [4649.216 us], Number of Samples [100] 
+PROCESS6: Average Loop Time [11690.156 us], Average Processing Time [4639.206 us], Number of Samples [100] 
